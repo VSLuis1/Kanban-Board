@@ -35,23 +35,23 @@ const defaultTasks: Task[] = [
   {
     id: "1",
     columnId: "todo",
-    content: "List admin APIs for dashboard",
+    content: "create eCommerce Web UI",
   },
   {
     id: "2",
     columnId: "todo",
     content:
-      "Develop user registration functionality with OTP delivered on SMS after email confirmation and phone number confirmation",
+      "i have to go village to meet my parents",
   },
   {
     id: "3",
     columnId: "doing",
-    content: "Conduct security testing",
+    content: "Scrolling some reels",
   },
   {
     id: "4",
     columnId: "doing",
-    content: "Analyze competitors",
+    content: "reading docs",
   },
   {
     id: "5",
@@ -61,7 +61,7 @@ const defaultTasks: Task[] = [
   {
     id: "6",
     columnId: "done",
-    content: "Dev meeting",
+    content: "chatting with riya",
   },
   {
     id: "7",
@@ -76,17 +76,12 @@ const defaultTasks: Task[] = [
   {
     id: "9",
     columnId: "todo",
-    content: "Implement data validation",
-  },
-  {
-    id: "10",
-    columnId: "todo",
-    content: "Design database schema",
+    content: "Implement ui design",
   },
   {
     id: "11",
     columnId: "todo",
-    content: "Integrate SSL web certificates into workflow",
+    content: "clg homework of cs subject",
   },
   {
     id: "12",
